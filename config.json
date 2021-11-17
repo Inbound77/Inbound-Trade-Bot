@@ -3,7 +3,7 @@
 Cookie = 
 Id = 
 
-#Change these if you want vvvvv
+#Change these if you know what you are doing vvvvv
 
 MinRatio = 1.08
 MaxRatio = 1.2
