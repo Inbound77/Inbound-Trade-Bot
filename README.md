@@ -1,4 +1,4 @@
-# Inbound-Tradebot
+# Inbound Trade Bot
 
 
 Welcome to Inbound Trade Bot
